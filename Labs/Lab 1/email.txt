@@ -1,0 +1,46 @@
+Date: March 25, 2026
+To: II & III Year Undergraduate Engineering Students
+From: Academic Coordinator, Department of Computer Science and Engineering
+
+Dear Students,
+
+Please find below the details of an upcoming one-day university-level technical workshop on Cybersecurity & Ethical Hacking Fundamentals, organized by the Department of Computer Science and Engineering.
+
+1. Introduction: Why This Matters
+
+With the rapid growth of digital systems, cybersecurity has become a critical area of concern for individuals, organizations, and governments alike. Cyber threats such as data breaches, malware attacks, and unauthorized access are increasing in both frequency and complexity.
+This workshop aims to introduce students to the fundamentals of cybersecurity and ethical hacking, while emphasizing best practices for securing digital systems and networks.
+
+2. Event Details
+
+Date: Wednesday, 25th March 2026
+Time: 10:00 AM – 4:00 PM
+Mode: Online (Google Meet)
+
+3. Key Topics Covered
+
+ Introduction to Cybersecurity
+ Ethical Hacking Fundamentals
+ Common Cyber Attacks and Threats
+ Network and Web Application Security
+ Cybersecurity Career Opportunities
+
+4. Target Audience
+
+Undergraduate Engineering Students (2nd and 3rd Year)
+
+5. Call to Action
+
+Interested students are requested to register on or before 22nd March 2026 using the link below:
+[https://example.com/register](https://example.com/register)
+
+For queries, contact [cybersecurity.workshop@university.edu](mailto:cybersecurity.workshop@university.edu) or +91 98765 43210.
+
+6. Closing
+
+Students are strongly encouraged to participate and enhance their awareness of this vital domain.
+
+Best Regards,
+Academic Coordinator
+Department of Computer Science and Engineering
+[University Name]
